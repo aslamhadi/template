@@ -10,5 +10,6 @@ return {
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.test.neotest" },
   { import = "astrocommunity.pack.go" },
+  { import = "astrocommunity.recipes.heirline-vscode-winbar" },
   -- import/override with your plugins folder
 }
